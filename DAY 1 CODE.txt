@@ -1,0 +1,103 @@
+PROG7312 C#
+		
+	console app: prjDictionaries
+		add cs: DictionaryManager.cs
+		
+		
+		private Dictionary<string, int> _dictionary;
+		
+		public DictionaryManager() {
+			_dictionary = new Dictionary<string, int>();
+		}
+		
+		public void AddEntry(string Name, int Mark) {
+			if (!_dictionary.ContainsKey(Name)) {
+				_dictionary.Add(Name, Mark);
+			}	
+			else {
+				Console.WriteLine($"Student '{Name}' already exists with value {_dictionary[Name]}.");
+			}
+		}
+		
+		public int? GetMark(string Name) {
+			if (_dictionary.TryGetValue(Name, out int mark)) {
+				return mark
+			}
+			else {
+				Console.WriteLine($"Student '{Name}' not found.");
+				return null;
+			}
+		}
+		
+		public bool RemoveEntry(string Name) {
+			if (_dictionary.Remove(Name)) {
+				Console.WriteLine($"Student '{Name}' removed successfully.");
+				return true;
+			}
+			else {
+				Console.WriteLine($"Student '{Name}' not found.");
+				return false;
+			}
+		}
+		
+		public void DisplayEntries() {
+			if (_dictionary.Count == 0){
+				Console.WriteLine("No entries in dictionary");
+			}
+			foreach (var entry in _dictionary) {
+				Console.WriteLine($"Name: '{entry.Key}', Mark: {entry.Value}.");
+				}
+			}
+		}
+		
+		
+	program.cs
+		DictionaryManager manager = new DictionaryManager();
+		bool exit = false;
+		
+		while (!exit) {
+			Console.WriteLine("\nMenu");
+			Console.WriteLine("1. Add Entry");
+			Console.WriteLine("2. Search for an entry");
+			Console.WriteLine("3. Remove an entry");
+			Console.WriteLine("4. Display all entries");
+			Console.WriteLine("5. Exit");
+			Console.Write("Choose an option 1-5: ");
+			
+			string choice =  Console.ReadLine();
+			switch (choice) {
+				case "1": 
+					Console.Write("Enter student name: ");
+					string nameToAdd = Console.ReadLine();
+					Console.Write("Enter student mark: ");
+					if (int.TryParse(Console.ReadLine(), out int markToAdd)) {
+						manager.AddEntry(nameToAdd, markToAdd);
+					}
+					else {
+						Console.WriteLine("Invalid mark; Please enter a valid integer.");
+					}
+					break;
+				case "2":
+					Console.Write("Enter student name to search: ");
+					string nameToSearch = Console.ReadLine();
+					int? mark = manager.GetMark(nameToSearch);
+					if (mark.hasValue) {
+						Console.WriteLine($"Mark for {nameToSearch}: {mark.Value}");
+					}
+					break;
+				case "3":
+					Console.Write("Enter the name to remove");
+					string nameToRemove = Console.ReadLine();
+					manager.RemoveEntry(nameToRemove);
+					break;
+				case "4":
+					manager.DisplayEntries();
+					break;
+				case "5":
+					exit = true
+					Console.WriteLine("Exiting the program.");
+					break;
+				default: 
+					Console.WriteLine("Invalid choice; Please select a valid option (1 - 5)");
+			}
+		}

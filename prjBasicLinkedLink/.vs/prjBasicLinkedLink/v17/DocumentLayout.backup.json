@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ianpo\\OneDrive\\Documents\\Amber Uni Stuff\\PROG7312\\prjBasicLinkedLink\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFAAE67F-EB1D-499E-ADB9-C16FBA2DC623}|prjBasicLinkedLink\\prjBasicLinkedLink.csproj|c:\\users\\ianpo\\onedrive\\documents\\amber uni stuff\\prog7312\\prjbasiclinkedlink\\prjbasiclinkedlink\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFAAE67F-EB1D-499E-ADB9-C16FBA2DC623}|prjBasicLinkedLink\\prjBasicLinkedLink.csproj|solutionrelative:prjbasiclinkedlink\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFAAE67F-EB1D-499E-ADB9-C16FBA2DC623}|prjBasicLinkedLink\\prjBasicLinkedLink.csproj|c:\\users\\ianpo\\onedrive\\documents\\amber uni stuff\\prog7312\\prjbasiclinkedlink\\prjbasiclinkedlink\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFAAE67F-EB1D-499E-ADB9-C16FBA2DC623}|prjBasicLinkedLink\\prjBasicLinkedLink.csproj|solutionrelative:prjbasiclinkedlink\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\ianpo\\OneDrive\\Documents\\Amber Uni Stuff\\PROG7312\\prjBasicLinkedLink\\prjBasicLinkedLink\\Node.cs",
+              "RelativeDocumentMoniker": "prjBasicLinkedLink\\Node.cs",
+              "ToolTip": "C:\\Users\\ianpo\\OneDrive\\Documents\\Amber Uni Stuff\\PROG7312\\prjBasicLinkedLink\\prjBasicLinkedLink\\Node.cs",
+              "RelativeToolTip": "prjBasicLinkedLink\\Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T09:29:18.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ianpo\\OneDrive\\Documents\\Amber Uni Stuff\\PROG7312\\prjBasicLinkedLink\\prjBasicLinkedLink\\Program.cs",
+              "RelativeDocumentMoniker": "prjBasicLinkedLink\\Program.cs",
+              "ToolTip": "C:\\Users\\ianpo\\OneDrive\\Documents\\Amber Uni Stuff\\PROG7312\\prjBasicLinkedLink\\prjBasicLinkedLink\\Program.cs",
+              "RelativeToolTip": "prjBasicLinkedLink\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T09:29:05.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
