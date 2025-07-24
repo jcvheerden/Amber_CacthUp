@@ -1,0 +1,14 @@
+C:\Users\ianpo\OneDrive\Documents\Amber Uni Stuff\PROG7312\prjDoubleLinkedList\prjDoubleLinkedList\obj\Debug\net8.0\prjDoubleLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianpo\OneDrive\Documents\Amber Uni Stuff\PROG7312\prjDoubleLinkedList\prjDoubleLinkedList\obj\Debug\net8.0\prjDoubleLinkedList.AssemblyInfoInputs.cache
+C:\Users\ianpo\OneDrive\Documents\Amber Uni Stuff\PROG7312\prjDoubleLinkedList\prjDoubleLinkedList\obj\Debug\net8.0\prjDoubleLinkedList.AssemblyInfo.cs
+C:\Users\ianpo\OneDrive\Documents\Amber Uni Stuff\PROG7312\prjDoubleLinkedList\prjDoubleLinkedList\obj\Debug\net8.0\prjDoubleLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\ianpo\OneDrive\Documents\Amber Uni Stuff\PROG7312\prjDoubleLinkedList\prjDoubleLinkedList\bin\Debug\net8.0\prjDoubleLinkedList.exe
+C:\Users\ianpo\OneDrive\Documents\Amber Uni Stuff\PROG7312\prjDoubleLinkedList\prjDoubleLinkedList\bin\Debug\net8.0\prjDoubleLinkedList.deps.json
+C:\Users\ianpo\OneDrive\Documents\Amber Uni Stuff\PROG7312\prjDoubleLinkedList\prjDoubleLinkedList\bin\Debug\net8.0\prjDoubleLinkedList.runtimeconfig.json
+C:\Users\ianpo\OneDrive\Documents\Amber Uni Stuff\PROG7312\prjDoubleLinkedList\prjDoubleLinkedList\bin\Debug\net8.0\prjDoubleLinkedList.dll
+C:\Users\ianpo\OneDrive\Documents\Amber Uni Stuff\PROG7312\prjDoubleLinkedList\prjDoubleLinkedList\bin\Debug\net8.0\prjDoubleLinkedList.pdb
+C:\Users\ianpo\OneDrive\Documents\Amber Uni Stuff\PROG7312\prjDoubleLinkedList\prjDoubleLinkedList\obj\Debug\net8.0\prjDoubleLinkedList.dll
+C:\Users\ianpo\OneDrive\Documents\Amber Uni Stuff\PROG7312\prjDoubleLinkedList\prjDoubleLinkedList\obj\Debug\net8.0\refint\prjDoubleLinkedList.dll
+C:\Users\ianpo\OneDrive\Documents\Amber Uni Stuff\PROG7312\prjDoubleLinkedList\prjDoubleLinkedList\obj\Debug\net8.0\prjDoubleLinkedList.pdb
+C:\Users\ianpo\OneDrive\Documents\Amber Uni Stuff\PROG7312\prjDoubleLinkedList\prjDoubleLinkedList\obj\Debug\net8.0\prjDoubleLinkedList.genruntimeconfig.cache
+C:\Users\ianpo\OneDrive\Documents\Amber Uni Stuff\PROG7312\prjDoubleLinkedList\prjDoubleLinkedList\obj\Debug\net8.0\ref\prjDoubleLinkedList.dll
